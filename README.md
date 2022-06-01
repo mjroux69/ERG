@@ -1,5 +1,6 @@
 # ERG
 Scripts for electroretinography analysis
+
 Two scripts are included, one for scotopic recordings, one for photopic recordings.
 The core of the two scripts is the same, the differences between the two being:
 - the acquisition frequency
