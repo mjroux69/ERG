@@ -1,2 +1,2 @@
 # ERG
-SCripts for electroretinography analysis
+Scripts for electroretinography analysis
